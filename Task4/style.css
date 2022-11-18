@@ -1,0 +1,111 @@
+.grid {
+    stroke: black;
+    stroke-width: 1px;
+    fill: lawngreen;
+}
+.arc {
+    stroke: lightgray;
+    fill: none;
+}
+.node {
+    fill: #EBD8C1;
+    stroke: black;
+    stroke-width: 1px;
+}
+circle.active {
+    fill: magenta;
+}
+path.active {
+    stroke: mediumorchid;
+}
+
+
+#wrapper {
+    margin-top: 200px;
+    text-align: center;
+}
+#legends{
+    float:left;
+    text-decoration: underline;
+    width: 100%;
+    text-align: center;
+}
+#row-legends{
+    float:left;
+    width: 50%;
+    text-align: center;
+
+}
+#column-legends{
+    text-align: center;
+    float:left;
+    width: 50%;
+
+}
+
+
+.legend{
+    stroke: #9A8B7A;
+    stroke-width: 1px;
+    width: 10px;
+    height: 10px;
+    text-decoration: underline;
+}
+
+.США {
+    fill: deeppink;
+    text-decoration: underline;
+}
+.Великобритания{
+    fill: red;
+    text-decoration: underline;
+}
+.Франция{
+    fill: lightslategray;
+    text-decoration: underline;
+}
+.Италия{
+    fill: green;
+    text-decoration: underline;
+}
+.Россия{
+    fill: darkcyan;
+    text-decoration: underline;
+}
+.Япония{
+    fill: olivedrab;
+    text-decoration: underline;
+}
+.международная{
+    fill: purple;
+    text-decoration: underline;
+}
+
+.космический-аппарат{
+    fill: blue;
+    text-decoration: underline;
+}
+.космическая-программа{
+    fill: blueviolet;
+    text-decoration: underline;
+}
+.ракета-носитель{
+    fill: firebrick;
+    text-decoration: underline;
+}
+.самолет{
+    fill: deeppink;
+    text-decoration: underline;
+}
+.телекоммуникация{
+    fill: navy;
+    text-decoration: underline;
+}
+.аэрокосмическая-компания{
+    fill: darkturquoise;
+    text-decoration: underline;
+}
+.авиакомпания{
+    fill: chocolate;
+    text-decoration: underline;
+}
